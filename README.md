@@ -1,3 +1,6 @@
+
+<img width="1920" height="3461" alt="coffee-media-query-12-12-2025_12_23_PM" src="https://github.com/user-attachments/assets/7be6da5a-b34f-40e7-a250-7ccaa737bf39" />
+
 ☕ Coffee Shop Website
 
 A fully responsive Coffee Shop front-end website built using HTML5 and CSS3. The project includes modern UI elements, hover effects, background images, Flexbox layouts, and media queries for responsiveness.
