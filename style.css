@@ -196,18 +196,26 @@ p{
         width: 80vw;
     }
 
-    .box-1,
-    .milk-shakes,
+    .box-1 {
+        flex-wrap: wrap; 
+     }
+    .milk-shakes{
+        flex-wrap: wrap;
+    }
     .blogs {
         flex-wrap: wrap;
     }
 
-    .box-,
+    .box-{
+        width: 70vw;
+    }
     .box-- {
         width: 70vw;
     }
 
-    .box- img,
+    .box- img{
+         width: 70vw;
+    }
     .box-- img {
         width: 70vw;
     }
@@ -228,12 +236,16 @@ p{
         gap: 3vh;
     }
 
-    .box-,
+    .box-{
+          width: 40vw;
+    }
     .box-- {
         width: 40vw;
     }
 
-    .box- img,
+    .box- img{
+         width: 40vw;
+    }
     .box-- img {
         width: 40vw;
     }
@@ -254,14 +266,19 @@ p{
         padding: 10vh;
     }
 
-    .box-,
+    .box-{
+        width: 20vw; 
+    }
     .box-- {
         width: 20vw;
     }
 
-    .box- img,
+    .box- img{
+       width: 20vw;   
+    }
     .box-- img {
         width: 20vw;
     }
 }
+
 
