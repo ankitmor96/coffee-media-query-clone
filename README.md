@@ -33,7 +33,7 @@ Media Queries for mobile/tablet/desktop responsive design
 
 github (url):https://github.com/ankitmor96/coffee-media-query-clone
 
-netlify(url):taupe-pastelito-2310a4.netlify.app
+netlify(url):https://taupe-pastelito-2310a4.netlify.app
 
 🎨 CSS Features Used
 ✔ Background Images
