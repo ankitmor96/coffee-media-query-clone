@@ -31,6 +31,8 @@ Flexbox for layout alignment
 
 Media Queries for mobile/tablet/desktop responsive design
 
+github (url):https://github.com/ankitmor96/coffee-media-query-clone
+
 🎨 CSS Features Used
 ✔ Background Images
 
